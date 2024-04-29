@@ -1,0 +1,435 @@
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=C7
+Change Component Designator: OldDesignator= NewDesignator=C8
+Change Component Designator: OldDesignator= NewDesignator=C9
+Change Component Designator: OldDesignator= NewDesignator=C10
+Change Component Designator: OldDesignator= NewDesignator=C11
+Change Component Designator: OldDesignator= NewDesignator=C12
+Change Component Designator: OldDesignator= NewDesignator=C13
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator= NewDesignator=FB1
+Change Component Designator: OldDesignator= NewDesignator=FB2
+Change Component Designator: OldDesignator= NewDesignator=IC1
+Change Component Designator: OldDesignator= NewDesignator=IC2
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=J4
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator= NewDesignator=LED2
+Change Component Designator: OldDesignator= NewDesignator=LED3
+Change Component Designator: OldDesignator= NewDesignator=LED4
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=R9
+Change Component Designator: OldDesignator= NewDesignator=R10
+Change Component Designator: OldDesignator= NewDesignator=R11
+Change Component Designator: OldDesignator= NewDesignator=R12
+Change Component Designator: OldDesignator= NewDesignator=R13
+Change Component Designator: OldDesignator= NewDesignator=R14
+Change Component Designator: OldDesignator= NewDesignator=R15
+Change Component Designator: OldDesignator= NewDesignator=S1
+Change Component Designator: OldDesignator= NewDesignator=U1
+Change Component Designator: OldDesignator= NewDesignator=Y1
+Added Component: Designator=C14(CAPPM168X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TCM0J106M8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tcm0j106m8r/rohm-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/255248ae09371697a9bedad935b0557d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TCM0J106M8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-TCM0J106M8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-TCM0J106M8R"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0603YC104K4T2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0603yc104k4t2a/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0603YC104K4T2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-0603YC104K4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/0603YC104K4T2A/?qs=Cej1j9ztgjHj4I01NaBI3A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPPM168X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TCM0J106M8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tcm0j106m8r/rohm-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/255248ae09371697a9bedad935b0557d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TCM0J106M8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-TCM0J106M8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-TCM0J106M8R"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0603YC104K4T2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0603yc104k4t2a/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0603YC104K4T2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-0603YC104K4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/0603YC104K4T2A/?qs=Cej1j9ztgjHj4I01NaBI3A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC4(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC5(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC6(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC7(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC8(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC9(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC10(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC11(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC12(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC13(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC14(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC15(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC16(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC17(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC18(DIP762W60P254L458H450Q4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdf1.alldatasheet.com/datasheet-pdf/view/43370/SHARP/PC817A.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PC817A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC19(SOT290P700X180-4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/SK-AMS1117-5-0_C165483.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Shikues"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AMS1117-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(HDRV16W79P0X254_1X16_4064X254X874P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/61301611121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61301611121?qs=PhR8RmCirEYq%2F9PEO1%2F%252B%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S2(PCM12SMTR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PCM12SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pcm12smtr/ck?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/1424/pcm.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PCM12SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PCM12SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/PCM12SMTR?qs=mfFuHy8STfL3qrPSfCHA7w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=GND Pin=IC4-2
+Added Pin To Net: NetName=GND Pin=IC5-2
+Added Pin To Net: NetName=GND Pin=IC6-2
+Added Pin To Net: NetName=GND Pin=IC7-2
+Added Pin To Net: NetName=GND Pin=IC8-2
+Added Pin To Net: NetName=GND Pin=IC9-2
+Added Pin To Net: NetName=GND Pin=IC10-2
+Added Pin To Net: NetName=GND Pin=IC11-2
+Added Pin To Net: NetName=GND Pin=IC12-2
+Added Pin To Net: NetName=GND Pin=IC13-2
+Added Pin To Net: NetName=GND Pin=IC14-2
+Added Pin To Net: NetName=GND Pin=IC15-2
+Added Pin To Net: NetName=GND Pin=IC16-2
+Added Pin To Net: NetName=GND Pin=IC17-2
+Added Pin To Net: NetName=GND Pin=IC18-2
+Added Pin To Net: NetName=GND Pin=IC19-1
+Added Pin To Net: NetName=GND Pin=S2-MP1
+Added Pin To Net: NetName=GND Pin=S2-MP2
+Added Pin To Net: NetName=GND Pin=S2-MP3
+Added Pin To Net: NetName=GND Pin=S2-MP4
+Added Pin To Net: NetName=5V/12V Pin=IC3-4
+Added Pin To Net: NetName=5V/12V Pin=IC4-4
+Added Pin To Net: NetName=5V/12V Pin=IC5-4
+Added Pin To Net: NetName=5V/12V Pin=IC6-4
+Added Pin To Net: NetName=5V/12V Pin=IC7-4
+Added Pin To Net: NetName=5V/12V Pin=IC8-4
+Added Pin To Net: NetName=5V/12V Pin=IC9-4
+Added Pin To Net: NetName=5V/12V Pin=IC10-4
+Added Pin To Net: NetName=5V/12V Pin=IC11-4
+Added Pin To Net: NetName=5V/12V Pin=IC12-4
+Added Pin To Net: NetName=5V/12V Pin=IC13-4
+Added Pin To Net: NetName=5V/12V Pin=IC14-4
+Added Pin To Net: NetName=5V/12V Pin=IC15-4
+Added Pin To Net: NetName=5V/12V Pin=IC16-4
+Added Pin To Net: NetName=5V/12V Pin=IC17-4
+Added Pin To Net: NetName=5V/12V Pin=IC18-4
+Added Pin To Net: NetName=5V/12V Pin=S2-2
+Added Net: Name=5V/12V
+Added Pin To Net: NetName=5VS Pin=C16-1
+Added Pin To Net: NetName=5VS Pin=C17-2
+Added Pin To Net: NetName=5VS Pin=IC19-2
+Added Pin To Net: NetName=5VS Pin=S2-3
+Added Net: Name=5VS
+Added Pin To Net: NetName=12VS Pin=C14-1
+Added Pin To Net: NetName=12VS Pin=C15-2
+Added Pin To Net: NetName=12VS Pin=IC19-3
+Added Pin To Net: NetName=12VS Pin=S2-1
+Added Net: Name=12VS
+Added Pin To Net: NetName=NetLabel125 Pin=IC3-1
+Added Net: Name=NetLabel125
+Added Pin To Net: NetName=NetLabel126 Pin=IC4-1
+Added Net: Name=NetLabel126
+Added Pin To Net: NetName=NetLabel127 Pin=IC5-1
+Added Net: Name=NetLabel127
+Added Pin To Net: NetName=NetLabel128 Pin=IC6-1
+Added Net: Name=NetLabel128
+Added Pin To Net: NetName=NetLabel129 Pin=IC7-1
+Added Net: Name=NetLabel129
+Added Pin To Net: NetName=NetLabel130 Pin=IC8-1
+Added Net: Name=NetLabel130
+Added Pin To Net: NetName=NetLabel131 Pin=IC9-1
+Added Net: Name=NetLabel131
+Added Pin To Net: NetName=NetLabel132 Pin=IC10-1
+Added Net: Name=NetLabel132
+Added Pin To Net: NetName=NetLabel133 Pin=IC11-1
+Added Net: Name=NetLabel133
+Added Pin To Net: NetName=NetLabel134 Pin=IC12-1
+Added Net: Name=NetLabel134
+Added Pin To Net: NetName=NetLabel135 Pin=IC13-1
+Added Net: Name=NetLabel135
+Added Pin To Net: NetName=NetLabel136 Pin=IC14-1
+Added Net: Name=NetLabel136
+Added Pin To Net: NetName=NetLabel137 Pin=IC15-1
+Added Net: Name=NetLabel137
+Added Pin To Net: NetName=NetLabel138 Pin=IC16-1
+Added Net: Name=NetLabel138
+Added Pin To Net: NetName=NetLabel139 Pin=IC17-1
+Added Net: Name=NetLabel139
+Added Pin To Net: NetName=NetLabel140 Pin=IC18-1
+Added Net: Name=NetLabel140
+Added Pin To Net: NetName=NetLabel141 Pin=IC3-3
+Added Net: Name=NetLabel141
+Added Pin To Net: NetName=NetLabel142 Pin=IC4-3
+Added Net: Name=NetLabel142
+Added Pin To Net: NetName=NetLabel143 Pin=IC5-3
+Added Net: Name=NetLabel143
+Added Pin To Net: NetName=NetLabel144 Pin=IC6-3
+Added Net: Name=NetLabel144
+Added Pin To Net: NetName=NetLabel145 Pin=IC7-3
+Added Net: Name=NetLabel145
+Added Pin To Net: NetName=NetLabel146 Pin=IC8-3
+Added Net: Name=NetLabel146
+Added Pin To Net: NetName=NetLabel147 Pin=IC9-3
+Added Net: Name=NetLabel147
+Added Pin To Net: NetName=NetLabel149 Pin=IC10-3
+Added Net: Name=NetLabel149
+Added Pin To Net: NetName=NetLabel150 Pin=IC14-3
+Added Net: Name=NetLabel150
+Added Pin To Net: NetName=NetLabel151 Pin=IC13-3
+Added Net: Name=NetLabel151
+Added Pin To Net: NetName=NetLabel152 Pin=IC12-3
+Added Net: Name=NetLabel152
+Added Pin To Net: NetName=NetLabel153 Pin=IC11-3
+Added Net: Name=NetLabel153
+Added Pin To Net: NetName=NetLabel154 Pin=IC15-3
+Added Net: Name=NetLabel154
+Added Pin To Net: NetName=NetLabel155 Pin=IC16-3
+Added Net: Name=NetLabel155
+Added Pin To Net: NetName=NetLabel156 Pin=IC17-3
+Added Net: Name=NetLabel156
+Added Pin To Net: NetName=NetLabel157 Pin=IC18-3
+Added Net: Name=NetLabel157
+Added Member To Class: ClassName=MioMicro Member=Component C1 04025C104KAT2A
+Added Member To Class: ClassName=MioMicro Member=Component C2 02016D474KAT2A
+Added Member To Class: ClassName=MioMicro Member=Component C3 02013A150GAT2A
+Added Member To Class: ClassName=MioMicro Member=Component C4 06033G104ZAT2A
+Added Member To Class: ClassName=MioMicro Member=Component C5 02013A150GAT2A
+Added Member To Class: ClassName=MioMicro Member=Component C6 C0603C475K9PACTU
+Added Member To Class: ClassName=MioMicro Member=Component C7 C0603C475K9PACTU
+Added Member To Class: ClassName=MioMicro Member=Component C8 04025C104KAT2A
+Added Member To Class: ClassName=MioMicro Member=Component C9 04025C104KAT2A
+Added Member To Class: ClassName=MioMicro Member=Component C10 C0603C475K9PACTU
+Added Member To Class: ClassName=MioMicro Member=Component C11 04025C104KAT2A
+Added Member To Class: ClassName=MioMicro Member=Component C12 04025C104KAT2A
+Added Member To Class: ClassName=MioMicro Member=Component C13 C0603C475K9PACTU
+Added Member To Class: ClassName=OptoIso Member=Component C14 TCM0J106M8R
+Added Member To Class: ClassName=OptoIso Member=Component C15 0603YC104K4T2A
+Added Member To Class: ClassName=OptoIso Member=Component C16 TCM0J106M8R
+Added Member To Class: ClassName=OptoIso Member=Component C17 0603YC104K4T2A
+Added Member To Class: ClassName=MioMicro Member=Component D1 PRTR5V0U2X,215
+Added Member To Class: ClassName=MioMicro Member=Component FB1 BLM18PG471SN1D
+Added Member To Class: ClassName=MioMicro Member=Component FB2 BLM18PG471SN1D
+Added Member To Class: ClassName=MioMicro Member=Component IC1 632723100011
+Added Member To Class: ClassName=MioMicro Member=Component IC2 LM1117IMP-3.3_NOPB
+Added Member To Class: ClassName=OptoIso Member=Component IC3 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC4 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC5 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC6 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC7 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC8 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC9 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC10 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC11 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC12 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC13 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC14 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC15 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC16 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC17 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC18 PC817A
+Added Member To Class: ClassName=OptoIso Member=Component IC19 AMS1117-5.0
+Added Member To Class: ClassName=MioMicro Member=Component J1 61301611821
+Added Member To Class: ClassName=MioMicro Member=Component J2 61301611821
+Added Member To Class: ClassName=MioMicro Member=Component J3 61301021121
+Added Member To Class: ClassName=MioMicro Member=Component J4 PH2-06-UA
+Added Member To Class: ClassName=OptoIso Member=Component J5 61301611121
+Added Member To Class: ClassName=MioMicro Member=Component LED1 SML-D12Y8WT86
+Added Member To Class: ClassName=MioMicro Member=Component LED2 SML-D12Y8WT86
+Added Member To Class: ClassName=MioMicro Member=Component LED3 HSMG-C190
+Added Member To Class: ClassName=MioMicro Member=Component LED4 SML-D12Y8WT86
+Added Member To Class: ClassName=MioMicro Member=Component R1 ERA-3AED512V
+Added Member To Class: ClassName=MioMicro Member=Component R2 CR0603-JW-104ELF
+Added Member To Class: ClassName=MioMicro Member=Component R3 CR0603-FX-3300GLF
+Added Member To Class: ClassName=MioMicro Member=Component R4 CR0603-FX-3300GLF
+Added Member To Class: ClassName=MioMicro Member=Component R5 RK73H1ETTP1372F
+Added Member To Class: ClassName=MioMicro Member=Component R6 CR0603-FX-3300GLF
+Added Member To Class: ClassName=MioMicro Member=Component R7 CR0603-FX-3300GLF
+Added Member To Class: ClassName=MioMicro Member=Component R8 ERA-3AED512V
+Added Member To Class: ClassName=MioMicro Member=Component R9 ERA-3AED512V
+Added Member To Class: ClassName=MioMicro Member=Component R10 ERA-3AED512V
+Added Member To Class: ClassName=MioMicro Member=Component R11 ERA-3AED512V
+Added Member To Class: ClassName=MioMicro Member=Component R12 ERA-3AED512V
+Added Member To Class: ClassName=MioMicro Member=Component R13 ERA-3AED512V
+Added Member To Class: ClassName=MioMicro Member=Component R14 ERA-3AED512V
+Added Member To Class: ClassName=MioMicro Member=Component R15 ERA-3AED512V
+Added Member To Class: ClassName=MioMicro Member=Component S1 1571636-3
+Added Member To Class: ClassName=OptoIso Member=Component S2 PCM12SMTR
+Added Member To Class: ClassName=MioMicro Member=Component U1 R7FA4M1AB3CFM#AA0
+Added Member To Class: ClassName=MioMicro Member=Component Y1 ABM10-16.000MHZ-1-N20

@@ -1,0 +1,16 @@
+Added Component: Designator=Power_Led(LEDC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190gkt/lite-on-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C190GKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C190GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C190GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C190GKT?qs=drxkyCeiWgbQzclgbojDOg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1005X40N
+Added Pin To Net: NetName=GND Pin=Power_Led-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Added Pin To Net: NetName=NetPower_Led_2 Pin=Power_Led-2
+Added Net: Name=NetPower_Led_2
+Added Member To Class: ClassName=OptoIso Member=Component Power_Led LTST-C190GKT
+Add Class Member: Failed to add class member : Component R10 CR0402-FX-3300GLF

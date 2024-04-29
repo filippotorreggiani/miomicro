@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [MioMicro.PrjPcb]
+   Generated File[MioMicro.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:07:07 On 22/03/2024

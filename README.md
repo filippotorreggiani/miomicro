@@ -1,2 +1,3 @@
 # miomicro
-A specialized microcontroller board for communication applications
+
+A specialized microcontroller board for communication applications.

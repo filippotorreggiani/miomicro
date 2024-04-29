@@ -1,0 +1,107 @@
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=K? NewDesignator=K2
+Change Component Designator: OldDesignator=K? NewDesignator=K3
+Change Component Designator: OldDesignator=K? NewDesignator=K4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=C1(C1206)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C1206C476M8PACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1206c476m8pactu/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1206C476M8PACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C1206C476M8P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C1206C476M8PACTU?qs=K%2Fj%2Fqf%252B0fqIWQ8LQ8mLiKw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM21BR60J226ME39L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm21br60j226me39l/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM21BR60J226ME39L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM21R60J226ME39L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BR60J226ME39L?qs=DJY02EClX9n4vY1%2FNV53Qw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIOAD1410W90L470D235)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1N5817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1n5817/rectron?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/1n5817/rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N5817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDC3225X270N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CBC3225T101MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cbc3225t101mr/taiyo-yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/CBC3225T101MR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CBC3225T101MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-CBC3225T101MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TAIYO-YUDEN/CBC3225T101MR?qs=I6KAKw0tg2wCaeirMPJHXw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=PS1(SOT95P190X145-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Holtek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HT7750A SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+3.7/4V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=+3.7/4V Pin=L1-2
+Added Pin To Net: NetName=GND Pin=PS1-1
+Added Pin To Net: NetName=+5 Pin=PS1-2
+Change Net Name : Old Net Name=NetIC?_15 New Net Name=NetIC1_15
+Change Net Name : Old Net Name=NetIC?_16 New Net Name=NetIC1_16
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED3_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=PS1-3
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R4-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R5-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R3-1
+Added Net: Name=NetLED4_1
+Added Member To Class: ClassName=RelèBluetooth Member=Component C1 C1206C476M8PACTU
+Added Member To Class: ClassName=RelèBluetooth Member=Component C2 GRM21BR60J226ME39L
+Added Member To Class: ClassName=RelèBluetooth Member=Component D1 1N5817
+Added Member To Class: ClassName=RelèBluetooth Member=Component J1 1340152
+Added Member To Class: ClassName=RelèBluetooth Member=Component J2 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component J3 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component J5 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component K1 G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component K2 G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component K4 G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component L1 CBC3225T101MR
+Added Member To Class: ClassName=RelèBluetooth Member=Component LED2 LTST-C191TBKT
+Added Member To Class: ClassName=RelèBluetooth Member=Component LED3 LTST-C191TBKT
+Added Member To Class: ClassName=RelèBluetooth Member=Component LED4 LTST-C191TBKT
+Added Member To Class: ClassName=RelèBluetooth Member=Component PS1 HT7750A_SOT23-3
+Added Member To Class: ClassName=RelèBluetooth Member=Component R1 ERJ-6GEYJ513V
+Added Member To Class: ClassName=RelèBluetooth Member=Component R2 ERJ-1GNF3300C
+Added Member To Class: ClassName=RelèBluetooth Member=Component R3 ERJ-1GNF3300C
+Added Member To Class: ClassName=RelèBluetooth Member=Component R5 ERJ-1GNF3300C

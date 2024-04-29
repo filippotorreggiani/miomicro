@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=NetLED?_1 Pin=R?-1
+Removed Pin From Net: NetName=GND Pin=R?-2
+Added Component: Designator=LED?(LEDC1608X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c191tbkt/lite-on-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-230/LTST-C191TBKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT?qs=dmW16TmpDgF%252B6HWuTmCtcw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LEDC1608X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c191tbkt/lite-on-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-230/LTST-C191TBKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT?qs=dmW16TmpDgF%252B6HWuTmCtcw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LEDC1608X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c191tbkt/lite-on-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-230/LTST-C191TBKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT?qs=dmW16TmpDgF%252B6HWuTmCtcw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LEDC1608X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c191tbkt/lite-on-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-230/LTST-C191TBKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C191TBKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT?qs=dmW16TmpDgF%252B6HWuTmCtcw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(ERJ1GN_(0201))
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-1gnf3300c/panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-1GNF3300C?qs=nuXzIS8loXGdtA3emz%252Bc%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(ERJ1GN_(0201))
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-1gnf3300c/panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-1GNF3300C?qs=nuXzIS8loXGdtA3emz%252Bc%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(ERJ1GN_(0201))
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-1gnf3300c/panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-1GNF3300C?qs=nuXzIS8loXGdtA3emz%252Bc%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(ERJ1GN_(0201))
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-1gnf3300c/panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-1GNF3300C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-1GNF3300C?qs=nuXzIS8loXGdtA3emz%252Bc%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=C1 Pin=LED?-2
+Added Pin To Net: NetName=C2 Pin=LED?-2
+Added Pin To Net: NetName=C3 Pin=LED?-2
+Added Pin To Net: NetName=C4 Pin=LED?-2
+Added Pin To Net: NetName=NetIC?_16 Pin=R?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetIC?_15 Pin=R?-2
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1340152
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component LED? LTST-C191TBKT
+Added Member To Class: ClassName=RelèBluetooth Member=Component LED? LTST-C191TBKT
+Added Member To Class: ClassName=RelèBluetooth Member=Component LED? LTST-C191TBKT
+Added Member To Class: ClassName=RelèBluetooth Member=Component LED? LTST-C191TBKT
+Added Member To Class: ClassName=RelèBluetooth Member=Component R? ERJ-6GEYJ513V
+Added Member To Class: ClassName=RelèBluetooth Member=Component R? ERJ-1GNF3300C
+Added Member To Class: ClassName=RelèBluetooth Member=Component R? ERJ-1GNF3300C
+Added Member To Class: ClassName=RelèBluetooth Member=Component R? ERJ-1GNF3300C

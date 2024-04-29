@@ -1,0 +1,43 @@
+Add Component: Footprint Not Found 1729128
+Add Component: Footprint Not Found 1729128
+Add Component: Footprint Not Found 1729128
+Add Component: Footprint Not Found 1729128
+Added Pin To Net: NetName=C1 Pin=K?-1
+Added Pin To Net: NetName=C2 Pin=K?-1
+Added Pin To Net: NetName=C3 Pin=K?-1
+Added Pin To Net: NetName=C4 Pin=K?-1
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=1IN Pin=J?-1
+Added Pin To Net: NetName=1IN Pin=K?-5
+Added Net: Name=1IN
+Added Pin To Net: NetName=1OUT Pin=J?-2
+Added Pin To Net: NetName=1OUT Pin=K?-8
+Added Net: Name=1OUT
+Added Pin To Net: NetName=2IN Pin=J?-1
+Added Pin To Net: NetName=2IN Pin=K?-5
+Added Net: Name=2IN
+Added Pin To Net: NetName=2OUT Pin=J?-2
+Added Pin To Net: NetName=2OUT Pin=K?-8
+Added Net: Name=2OUT
+Added Pin To Net: NetName=3IN Pin=J?-1
+Added Pin To Net: NetName=3IN Pin=K?-5
+Added Net: Name=3IN
+Added Pin To Net: NetName=3OUT Pin=J?-2
+Added Pin To Net: NetName=3OUT Pin=K?-8
+Added Net: Name=3OUT
+Added Pin To Net: NetName=4IN Pin=J?-1
+Added Pin To Net: NetName=4IN Pin=K?-5
+Added Net: Name=4IN
+Added Pin To Net: NetName=4OUT Pin=J?-2
+Added Pin To Net: NetName=4OUT Pin=K?-8
+Added Net: Name=4OUT
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1340152
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G6DN-1A-SL_DC5

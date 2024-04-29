@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=J1 Old Footprint=2828372 New Footprint=518144001
+Change Component Footprint: Designator=J2 Old Footprint=2828372 New Footprint=518144001
+Change Component Comment : Designator=J1 Old Comment=282837-2 New Comment=5-1814400-1
+Change Component Comment : Designator=J2 Old Comment=282837-2 New Comment=5-1814400-1
+Change Component Designator: OldDesignator=Power NewDesignator=LED1
+Change component parameters: Designator = "J1" ("J1"); Footprint = "2828372"; UniqueID = "\SIVRUNGM" ("\SIVRUNGM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/5-1814400-1/te-connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1814400%7FD%7Fpdf%7FEnglish%7FENG_CD_1814400_D_baseFilename.pdf%7F5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.43mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-1814400-1?qs=ZMVvPt2N%252B83mDSbcJPKgOA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "2828372"; UniqueID = "\DYKZXCBC" ("\DYKZXCBC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/5-1814400-1/te-connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1814400%7FD%7Fpdf%7FEnglish%7FENG_CD_1814400_D_baseFilename.pdf%7F5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.43mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-5-1814400-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-1814400-1?qs=ZMVvPt2N%252B83mDSbcJPKgOA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN1_L Pin=J1-3
+Added Pin To Net: NetName=CAN2_L Pin=J2-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-5
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-5
+Added Net: Name=NetJ2_4

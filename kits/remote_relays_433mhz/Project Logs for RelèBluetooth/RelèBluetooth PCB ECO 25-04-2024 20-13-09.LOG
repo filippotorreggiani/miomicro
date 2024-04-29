@@ -1,0 +1,14 @@
+Added Component: Designator=U?(12BHC186P1GR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.co.il/datasheet/2/209/EaglePlastics_EPD_201001-1902272.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Eagle Plastic Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "12BHC186P1-GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "12BHC186P1-GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Eagle-Plastic-Devices/12BHC186P1-GR?qs=yqaQSyyJnNiNkNtwVjdKJQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.7V Pin=U?-1
+Added Net: Name=+3.7V
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Net: Name=GND
+Added Class: Name=RelèBluetooth

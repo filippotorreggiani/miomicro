@@ -1,0 +1,20 @@
+Added Component: Designator=K?(G3MB202P4DC5)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/G3MB-202P-4 DC5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "G3MB-202P-4 DC5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-G3MB-202P4DC5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Automation-and-Safety/G3MB-202P-4-DC5?qs=Z0CfnKMjtWg7MIsv3RC0Aw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=K?(G3MB202P4DC5)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/G3MB-202P-4 DC5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "G3MB-202P-4 DC5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-G3MB-202P4DC5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Automation-and-Safety/G3MB-202P-4-DC5?qs=Z0CfnKMjtWg7MIsv3RC0Aw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G3MB-202P-4_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G3MB-202P-4_DC5

@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=4IN Pin=J?-1
+Removed Pin From Net: NetName=4OUT Pin=J?-2
+Added Component: Designator=J?(1729128)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1729128/phoenix-contact?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.net/product/1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729128?qs=GFUSqQMLmmnCBVBY3dts9w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(1729128)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1729128/phoenix-contact?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.net/product/1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729128?qs=GFUSqQMLmmnCBVBY3dts9w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(1729128)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1729128/phoenix-contact?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.net/product/1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729128?qs=GFUSqQMLmmnCBVBY3dts9w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(1729128)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1729128/phoenix-contact?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.net/product/1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729128?qs=GFUSqQMLmmnCBVBY3dts9w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1IN Pin=J?-1
+Added Pin To Net: NetName=2IN Pin=J?-1
+Added Pin To Net: NetName=3IN Pin=J?-1
+Added Pin To Net: NetName=4IN Pin=J?-1
+Added Pin To Net: NetName=RF_Connector Pin=J?-1
+Added Pin To Net: NetName=1OUT Pin=J?-2
+Added Pin To Net: NetName=2OUT Pin=J?-2
+Added Pin To Net: NetName=3OUT Pin=J?-2
+Added Pin To Net: NetName=4OUT Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1340152
+Added Member To Class: ClassName=RelèBluetooth Member=Component J? 1729128
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G6DN-1A-SL_DC5
+Added Member To Class: ClassName=RelèBluetooth Member=Component K? G6DN-1A-SL_DC5
