@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=GND Pin=IC?-7
+Removed Pin From Net: NetName=+5 Pin=IC?-14
+Added Component: Designator=IC?(RGY-(S-PVQFN-N14))
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SN74LVC14ARGYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74lvc14argyr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74lvc14a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74LVC14ARGYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74LVC14ARGYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC14ARGYR?qs=xJkDX%2FqrskODEoucJ5DYNg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(61500814221)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/61500814221.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61500814221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61500814221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61500814221?qs=rS3zZhy2AQOW6FITBQg0lg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CR0603-FX-1003HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cr0603-fx-1003hlf/bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0603-FX-1003HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR0603-FX1003HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=652-CR0603-FX1003HLF"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC6331X75N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000140163.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR2512-JW-511ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR2512-JW-511ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CR2512-JW-511ELF?qs=DRGWdQRZRTUCe2ujtuVbwQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CR0603-FX-1003HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cr0603-fx-1003hlf/bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0603-FX-1003HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR0603-FX1003HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=652-CR0603-FX1003HLF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ON/OF Output (invert) Pin=IC?-1
+Added Pin To Net: NetName=ON/OF Output Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-7
+Added Pin To Net: NetName=+5 Pin=IC?-14
+Added Pin To Net: NetName=ON/OF Output Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-MH1
+Added Pin To Net: NetName=GND Pin=J?-MH2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetIC?_3 Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=Current Output Pin=R?-2
+Added Pin To Net: NetName=NetIC?_3 Pin=R?-2
+Added Member To Class: ClassName=optic_fiber Member=Component C? GRM21BR61A106KE19L
+Added Member To Class: ClassName=optic_fiber Member=Component C? GRM21BR61A106KE19L
+Added Member To Class: ClassName=optic_fiber Member=Component IC? LM324N_NOPB
+Added Member To Class: ClassName=optic_fiber Member=Component IC? AFBR-2624Z
+Added Member To Class: ClassName=optic_fiber Member=Component IC? LM324N_NOPB
+Added Member To Class: ClassName=optic_fiber Member=Component J? 61500814221
+Added Member To Class: ClassName=optic_fiber Member=Component R? CR0603-FX-1003HLF
+Added Member To Class: ClassName=optic_fiber Member=Component R? CR2512-JW-511ELF
+Added Member To Class: ClassName=optic_fiber Member=Component R? CR0603-FX-1003HLF

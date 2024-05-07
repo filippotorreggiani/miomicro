@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=IC? NewDesignator=IC4
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetIC?_3 New Net Name=NetIC2_3
+Added Member To Class: ClassName=optic_fiber Member=Component C2 GRM21BR61A106KE19L
+Added Member To Class: ClassName=optic_fiber Member=Component C3 GRM21BR61A106KE19L
+Added Member To Class: ClassName=optic_fiber Member=Component IC1 AFBR-2624Z
+Added Member To Class: ClassName=optic_fiber Member=Component IC2 LM324N_NOPB
+Added Member To Class: ClassName=optic_fiber Member=Component IC3 LM324N_NOPB
+Added Member To Class: ClassName=optic_fiber Member=Component R2 CR0603-FX-1003HLF
+Added Member To Class: ClassName=optic_fiber Member=Component R3 CR2512-JW-511ELF
