@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC1_2
+Added Member To Class: ClassName=optic_fiber_tx Member=Component C2 04026D106MAT2A
+Added Member To Class: ClassName=optic_fiber_tx Member=Component C3 04026D106MAT2A
+Added Member To Class: ClassName=optic_fiber_tx Member=Component J1 61300211821

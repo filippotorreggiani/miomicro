@@ -1,0 +1,14 @@
+Added Component: Designator=power(61300211821)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/61300211821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300211821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=power-1
+Added Pin To Net: NetName=GND Pin=power-2
+Added Member To Class: ClassName=optic_fiber Member=Component IC4 SN74LVC14ARGYR
+Added Member To Class: ClassName=optic_fiber Member=Component power 61300211821
+Added Member To Class: ClassName=optic_fiber Member=Component R1 CR0603-FX-1003HLF
