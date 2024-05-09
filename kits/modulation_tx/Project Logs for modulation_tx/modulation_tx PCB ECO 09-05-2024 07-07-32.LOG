@@ -1,0 +1,20 @@
+Added Component: Designator=IC?(DIP794W56P254L959H533Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AD633JNZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ad633jnz/analog-devices?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/AD633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD633JNZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD633JNZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD633JNZ?qs=NmRFExCfTkGoBbkS43oI5A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Carrier Pin=IC?-3
+Added Pin To Net: NetName=Carrier Pin=IC?-6
+Added Net: Name=Carrier
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=MOD. AM Pin=IC?-7
+Added Net: Name=MOD. AM
+Added Pin To Net: NetName=Signal Pin=IC?-1
+Added Net: Name=Signal
+Added Class: Name=modulation_tx
