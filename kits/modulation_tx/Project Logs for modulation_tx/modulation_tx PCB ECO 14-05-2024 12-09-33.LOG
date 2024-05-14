@@ -1,0 +1,12 @@
+Added Component: Designator=Y?(AK2BDDF11000000T)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/datasheets/AK2B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AK2BDDF1-100.0000T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "815-AK2BDDF11000000T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/AK2BDDF1-100.0000T?qs=Imq1NPwxi76ONFYWIQZsYA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.63V Pin=Y?-6
+Added Net: Name=3.63V
+Added Member To Class: ClassName=modulation_tx Member=Component Y? AK2BDDF1-100.0000T
