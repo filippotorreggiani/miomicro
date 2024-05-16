@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=3.3V Pin=3.3V-1
+Removed Pin From Net: NetName=GND Pin=3.3V-2
+Change Component Designator: OldDesignator=3.3V NewDesignator=±15V
+Added Component: Designator=C?(CAPC2012X95N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cc0805krx7r7bb104/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/en/Chart/Download/pdf/CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0805KRX7R7BB104?qs=AgBp2OyFlx9i%252BgKMLa7NIA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X95N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cc0805krx7r7bb104/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/en/Chart/Download/pdf/CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0805KRX7R7BB104?qs=AgBp2OyFlx9i%252BgKMLa7NIA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=±?(1729128)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1729128/phoenix-contact?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.net/product/1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729128?qs=GFUSqQMLmmnCBVBY3dts9w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=±?-1
+Added Pin To Net: NetName=GND Pin=±?-2
+Added Pin To Net: NetName=+15V Pin=C?-2
+Added Pin To Net: NetName=+15V Pin=IC?-8
+Added Pin To Net: NetName=+15V Pin=±15V-1
+Added Net: Name=+15V
+Added Pin To Net: NetName=-15V Pin=C?-2
+Added Pin To Net: NetName=-15V Pin=IC?-5
+Added Pin To Net: NetName=-15V Pin=±15V-2
+Added Net: Name=-15V
+Added Member To Class: ClassName=modulation_tx Member=Component C? CC0805KRX7R7BB104
+Added Member To Class: ClassName=modulation_tx Member=Component C? CC0805KRX7R7BB104
+Added Member To Class: ClassName=modulation_tx Member=Component ±15V 1729128
+Added Member To Class: ClassName=modulation_tx Member=Component ±? 1729128

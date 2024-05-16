@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator= NewDesignator=±1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Added Member To Class: ClassName=modulation_tx Member=Component C2 CC0805KRX7R7BB104
