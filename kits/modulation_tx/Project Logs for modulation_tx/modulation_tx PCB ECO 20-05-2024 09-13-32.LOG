@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=MOD. AM Pin=IC1-7
+Change Component Designator: OldDesignator=+3.3V NewDesignator=±1
+Change Component Designator: OldDesignator=-15V                  +15V NewDesignator=±15V
+Added Component: Designator=L?(0603CS82NXGLW)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.coilcraft.com/pdfs/0603cs.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "COILCRAFT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0603CS-R25XGLU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOD. AM Pin=L?-2
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=L?-1
+Added Net: Name=NetIC1_7
+Added Member To Class: ClassName=modulation_tx Member=Component C1 CC0805KRX7R7BB104
+Added Member To Class: ClassName=modulation_tx Member=Component L? 0603CS-R25XGLU
